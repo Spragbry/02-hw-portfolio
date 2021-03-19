@@ -12,3 +12,5 @@ this is my personal portfolio website that has projects, contact info, and much 
 #Links
 
 https://spragbry.github.io/02-hw-portfolio/
+
+https://github.com/Spragbry/02-hw-portfolio
