@@ -204,7 +204,7 @@ footer {
     margin-bottom: 20px;
 }
 .projectsCont {
-    background-color: lightskyblue;
+    background-color: rgb(57, 57, 200);
     display: flex;
     flex: 1;
     width: 100%;
